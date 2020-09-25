@@ -1,1 +1,2 @@
-Private repository shared between Weston McDonald and Cumberland DRW
+Owned by Weston McDonald
+westonjmcdonald@gmail.com
